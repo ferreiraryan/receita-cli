@@ -40,10 +40,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone este repositório
-# git clone https://github.com/seu-usuario/receitas-cli/
+git clone https://github.com/seu-usuario/receitas-cli/
 
 # Acesse o diretório
-# cd receitas-cli
+cd receitas-cli
 
 # Instale as dependências
 npm install
